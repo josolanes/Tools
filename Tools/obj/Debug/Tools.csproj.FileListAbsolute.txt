@@ -1,0 +1,9 @@
+C:\Users\joshu_000\Documents\Visual Studio 2013\Projects\Tools\Tools\bin\Debug\Tools.dll
+C:\Users\joshu_000\Documents\Visual Studio 2013\Projects\Tools\Tools\bin\Debug\Tools.pdb
+C:\Users\joshu_000\Documents\Visual Studio 2013\Projects\Tools\Tools\obj\Debug\Tools.dll
+C:\Users\joshu_000\Documents\Visual Studio 2013\Projects\Tools\Tools\obj\Debug\Tools.pdb
+C:\Users\joshu_000\Documents\Visual Studio 2013\Projects\Tools\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+\\server\shared\Custom_Software\Windows\Tools\Tools\bin\Debug\Tools.dll
+\\server\shared\Custom_Software\Windows\Tools\Tools\bin\Debug\Tools.pdb
+\\server\shared\Custom_Software\Windows\Tools\Tools\obj\Debug\Tools.dll
+\\server\shared\Custom_Software\Windows\Tools\Tools\obj\Debug\Tools.pdb
